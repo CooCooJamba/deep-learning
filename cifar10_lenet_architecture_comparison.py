@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 """
 CIFAR-10 LeNet Architecture Comparison with PyTorch
 
