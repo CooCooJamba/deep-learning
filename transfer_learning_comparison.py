@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 """
 Transfer Learning Comparison: AlexNet, VGGNet, and ResNet on Custom Dataset
 
