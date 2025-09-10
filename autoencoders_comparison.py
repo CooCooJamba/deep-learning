@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 """
 Autoencoders Comparison: Fully Connected Autoencoder vs Variational Autoencoder
 
